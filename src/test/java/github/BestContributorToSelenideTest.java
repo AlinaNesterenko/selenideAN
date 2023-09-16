@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.Selenide.sleep;
 
-public class BestContributorToSelenide {
+public class BestContributorToSelenideTest {
 
   @Test
   void andreiSolntsevShouldBeFirstContributor(){

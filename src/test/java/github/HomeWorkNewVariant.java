@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class HomeWork {
+public class HomeWorkNewVariant {
   @Test
   void findJUnit5OnWiki() {
     //открыть selenide

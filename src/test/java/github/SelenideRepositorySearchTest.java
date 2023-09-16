@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.Selenide.sleep;
 
 
-public class SelenideRepositorySearch {
+public class SelenideRepositorySearchTest {
 
   @BeforeAll
   static void setUp() {
