@@ -23,6 +23,6 @@ public class HomeWorkNewVariant {
     $("[id='wiki-pages-filter']").setValue("Soft");
     $$("ul.m-0 li").findBy(text("SoftAssertions")).click();
     $$("[class='Link--primary']").findBy(Condition.exactText("JUnit5"));
-
+//
   }
 }
